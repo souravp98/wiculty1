@@ -1,1 +1,1 @@
-this is a file to practice git checkout
+this is a file to practice git conflict
