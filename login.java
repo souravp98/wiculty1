@@ -1,7 +1,7 @@
 public class{
 
 public static void main{
-	this is a function
+	this is 15 function
 }
 }
 
