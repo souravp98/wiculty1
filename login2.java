@@ -1,2 +1,2 @@
-this is a file to practice git conflict
+this this 
 this is to check conflict in pull
